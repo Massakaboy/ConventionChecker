@@ -1,1 +1,1 @@
-# KonventionChecker
+# ConventionChecker
