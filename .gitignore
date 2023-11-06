@@ -1,0 +1,9 @@
+bin/
+out/
+target/
+report/
+.idea/
+.project
+.settings
+vscode/
+*.iml

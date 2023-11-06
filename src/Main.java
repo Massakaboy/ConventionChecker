@@ -1,6 +1,6 @@
 /*
-	Konvention Checker
-	https://github.com/Friedinger/KonventionChecker
+	Convention Checker
+	https://github.com/Friedinger/ConventionChecker
  */
 public class Main {
 	public static void main(String[] args) {
