@@ -1,1 +1,1 @@
-# concept.md
+# Convention Checker Concept
